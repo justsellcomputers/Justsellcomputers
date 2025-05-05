@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Visibility: Select Public
+JustSellComputers
+Products About Contact
+Your One-Stop Shop for Quality Computers
+Affordable. Reliable. Fast Shipping.
+
+Featured Products
+Gaming PC X100
+Intel i7, RTX 4070, 16GB RAM
+
+$1299
+
+Office PC Pro
+Intel i5, 8GB RAM, 512GB SSD
+
+$699
+
+About Us
+JustSellComputers is dedicated to providing the best value in computer hardware with fast delivery and excellent customer service.
+
+Contact
+Email: support@justsellcomputers.com
+
+Phone: +1 800-555-1234
+
+© 2025 JustSellComputers. All rights reserved.
