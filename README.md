@@ -34,9 +34,8 @@ $699
 About Us
 JustSellComputers is dedicated to providing the best value in computer hardware with fast delivery and excellent customer service.
 
-Contact
-Email: support@justsellcomputers.com
 
-Phone: +1 800-555-1234
+
+Phone: +91 8618667408
 
 © 2025 JustSellComputers. All rights reserved.
